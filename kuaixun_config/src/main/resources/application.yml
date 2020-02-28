@@ -1,0 +1,12 @@
+server:
+  port: 12000
+spring:
+  application:
+    name: tensquare-config
+  cloud:
+    config:
+      enabled: false
+      server:
+        git:
+          uri: https://gitee.com/wplwl/TenSquareConfigRepo.git
+
