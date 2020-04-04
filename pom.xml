@@ -27,7 +27,7 @@
     </modules>
     <name>kuaixun_parent</name>
 
-    <description>十次方项目-黑马程序员</description>
+    <description>kuaixun</description>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
